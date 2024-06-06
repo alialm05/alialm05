@@ -4,7 +4,7 @@ A CS student at University of Windsor <img src="https://www.uwindsor.ca/sites/al
  
 
 📚 Languages I know:
-  Javascript, Goland, Python, C, C#, Lua, Turing, HTML, CSS
+  Javascript, Golang, Python, C, C#, Lua, Turing, HTML, CSS
 
 💾 Frameowrks I know:
   Nodejs, React, Firebase,  
