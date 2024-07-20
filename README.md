@@ -13,5 +13,6 @@ A CS student at University of Windsor
 💭 Wanting to learn:
   Angular.JS
 
-📫 Socials: <br/> <br/>
-<a ref="https://www.linkedin.com/in/ali-almaamouri-61592a2a7"> <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width=20px, height=auto/> <a/>
+
+[comment]: <> (📫 Socials: <br/> <br/>
+<a ref="https://www.linkedin.com/in/ali-almaamouri-61592a2a7"> <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width=20px, height=auto/> <a/>)
