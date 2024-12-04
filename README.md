@@ -5,13 +5,13 @@ A CS student at University of Windsor
  
 
 📚 Languages I know:
-  Javascript, Golang, Python, C, C#, Lua, Turing, HTML, CSS
+  Javascript, JAVA, Python, C, C#, Golang, Lua, Turing, HTML, CSS
 
-💾 Frameowrks I know:
+💾 Frameworks I know:
   Nodejs, React, Firebase,  
 
 💭 Wanting to learn:
-  Angular.JS
+  Angular.JS, Rust
 
 
 [comment]: <> (📫 Socials: <br/> <br/>
