@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hey, I'm Ali Almaamouri
 
-A CS student at University of Windsor 
+<b> A CS student at University of Windsor 
 <img style="transform: translateY(50%)" src="https://www.uwindsor.ca/sites/all/themes/uwindsor_bootstrap/images/uwindsor_shield.svg" width=40px, height=auto> 
- 
+</b> 
 
 📚 Languages I know:
   Javascript, JAVA, Python, C, C#, Golang, Lua, Turing, HTML, CSS
