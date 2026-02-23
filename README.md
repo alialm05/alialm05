@@ -4,6 +4,7 @@
 <img style="transform: translateY(50%)" src="https://www.uwindsor.ca/sites/all/themes/uwindsor_bootstrap/images/uwindsor_shield.svg" width=40px, height=auto> 
 </b> 
 
+
 📚 Languages I know:
   Javascript, JAVA, Python, C, C#, Golang, Lua, Turing, HTML, CSS
 
@@ -13,6 +14,7 @@
 💭 Wanting to learn:
   Angular.JS, Rust
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alialm05&label=Profile%20views&color=0e75b6&style=flat" alt="alialm05" /> </p>
 
 [comment]: <> (📫 Socials: <br/> <br/>
 <a ref="https://www.linkedin.com/in/ali-almaamouri-61592a2a7"> <img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38764/preview.svg" width=20px, height=auto/> <a/>)
