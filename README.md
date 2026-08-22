@@ -2,8 +2,8 @@
 
 <h3 align="center">
   
-  A CS student at University of Windsor
-  <img src="https://logosandtypes.com/alphabet/letter-w/university-windsor/" width=40px, height=auto> </img> 
+  A CS student at University of Windsor 
+  <img src="/Uwindsor.png" width=15px, height=auto> </img> 
 </h3>
   
 
